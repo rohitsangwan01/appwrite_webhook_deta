@@ -1,6 +1,6 @@
 # Deta Webhook Proxy (Appwrite)
 
-Webhook proxy to trigger [Appwrite](https://appwrite.io/) Function. Hosted for free on [Deta](https://deta.space/from-cloud)!
+Webhook proxy to trigger [Appwrite](https://appwrite.io/) Function. Hosted for free on [Deta](https://deta.space/manual/introduction)!
 
 This allows you to host a simple webhook proxy for free that executes Appwrite function each time the proxy is hit.
 
@@ -27,3 +27,7 @@ This is useful for integrations such as Stripe, Revolut Pay, Discord Interaction
 ![Screenshot 2023-05-17 at 12 20 40 AM](https://github.com/rohitsangwan01/appwrite_webhook_deta/assets/59526499/f0619c4e-d4cc-4b84-b122-be1da5a835f5)
 
 ![Screenshot 2023-05-17 at 12 21 15 AM](https://github.com/rohitsangwan01/appwrite_webhook_deta/assets/59526499/b04f1da5-d044-4817-8638-9c44abfa8056)
+
+
+## Note: 
+This is [Deta](https://deta.space/manual/introduction) implementation of [railway-webhook-proxy](https://github.com/Meldiron/railway-webhook-proxy) repository
