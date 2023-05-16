@@ -1,0 +1,22 @@
+# Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
+v: 0
+icon: ./icon.png
+micros:
+  - name: nodejs-app
+    src: .
+    engine: nodejs16
+    primary: true
+    presets:
+      env:
+        - name: APPWRITE_ENDPOINT
+          description: add appwrite endpoint
+          default: ""
+        - name: APPWRITE_API_KEY
+          description: add appwrite api key
+          default: ""  
+        - name: APPWRITE_PROJECT_ID
+          description: add appwrite projectId
+          default: ""
+        - name: APPWRITE_FUNCTION_ID
+          description: add appwrite functionId
+          default: ""
