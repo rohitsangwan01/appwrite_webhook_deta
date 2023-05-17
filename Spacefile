@@ -1,8 +1,7 @@
 # Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
 v: 0
-icon: ./icon.png
 micros:
-  - name: nodejs-app
+  - name: appwrite-webhook
     src: .
     engine: nodejs16
     primary: true
