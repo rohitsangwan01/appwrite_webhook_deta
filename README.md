@@ -24,7 +24,7 @@ This is useful for integrations such as Stripe, Revolut Pay, Discord, Telegram I
 
 
 ## 🖼️ Screenshots
-![Screenshot 2023-05-17 at 12 20 40 AM](https://github.com/rohitsangwan01/appwrite_webhook_deta/assets/59526499/f0619c4e-d4cc-4b84-b122-be1da5a835f5)
+![Screenshot 2023-05-17 at 10 30 05 AM](https://github.com/rohitsangwan01/appwrite_webhook_deta/assets/59526499/42407c0e-2470-4117-be41-bb0422123d52)
 
 ![Screenshot 2023-05-17 at 12 21 15 AM](https://github.com/rohitsangwan01/appwrite_webhook_deta/assets/59526499/b04f1da5-d044-4817-8638-9c44abfa8056)
 
