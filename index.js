@@ -31,9 +31,7 @@ app.use("/v1/execute", bodyParser.json(), async (req, res) => {
       "x-appwrite-project": process.env.APPWRITE_PROJECT_ID,
     };
 
-    const response = await axios.post(url, body, {
-      headers,
-    });
+    const response = await axios.post(url, body, { headers });
 
     res.status(response.data.statusCode);
     res.json({

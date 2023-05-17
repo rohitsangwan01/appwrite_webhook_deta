@@ -4,11 +4,11 @@ Webhook proxy to trigger [Appwrite](https://appwrite.io/) Function. Hosted for f
 
 This allows you to host a simple webhook proxy for free that executes Appwrite function each time the proxy is hit.
 
-This is useful for integrations such as Stripe, Revolut Pay, Discord Interaction Bot, GitHub App, Shopify, Slack bot, and muuuuuch more.
+This is useful for integrations such as Stripe, Revolut Pay, Discord, Telegram Interaction Bot, GitHub App, Shopify, Slack bot, and muuuuuch more.
 
 **Anything that has webhook integration can execute your Appwrite Function thanks to this proxy.**
 
-[Deploy on Deta](https://deta.space/discovery/r/tenwawppjvvhvcqs)
+[Deploy on Deta](https://deta.space/discovery/@rohitsangwan02/appwritewebhook)
 
 
 ## ✨ Features
